@@ -1,0 +1,8 @@
+==========
+Resources
+==========
+
+https://en.wikipedia.org/wiki/Multimodal_distribution
+http://www.r-statistics.com/2013/05/log-transformations-for-skewed-and-wide-distributions-from-practical-data-science-with-r/
+http://dib-lab.github.io/2015-07-06-ucdavis/syllabus/r-08-plot-ggplot2.html
+http://nicercode.github.io/2014-02-18-UTS/lessons/10-functions/

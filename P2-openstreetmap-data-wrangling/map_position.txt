@@ -1,0 +1,16 @@
+
+The OSM data used in this project is a custom square area of Hong Kong. 
+The uncompressed size of the data file is about 187MB.
+
+The map data was downloaded using the Overpass API:
+http://overpass-api.de/query_form.html
+
+with the following API query:
+(node(22.1505,113.8225,22.5151,114.4102);<;);out meta;
+
+
+
+Hong Kong is a special administrative region of China. It is one of the most densely populated regions in the world, which has a population more than 7 million with quite limited land. It is also one of the world's leading global financial centres, which makes it a very busy place.
+
+Hong Kong is the place where I was born and still living, and I am curious about the quality and accuracy of OpenStreetMap data about this place. 
+

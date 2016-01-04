@@ -1,0 +1,10 @@
+==========
+Resources
+==========
+
+http://wiki.openstreetmap.org/wiki/Key:addr
+http://wiki.openstreetmap.org/wiki/Quality_assurance
+https://api.mongodb.org/python/current/
+https://docs.mongodb.org/manual/aggregation/
+http://stackoverflow.com/questions/3095434/inserting-newlines-in-xml-file-generated-via-xml-etree-elementtree-in-python
+http://stackoverflow.com/questions/13710770/how-to-update-values-using-pymongo

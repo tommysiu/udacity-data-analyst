@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Standard to msysgit
+*.Rdata     text
+*.rdb       binary
+*.rds       binary
+*.Rd        text
+*.Rdx       binary
+*.Rmd       text
+*.R         text
