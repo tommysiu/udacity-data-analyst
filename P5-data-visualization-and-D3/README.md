@@ -38,7 +38,7 @@ The second comment is about the lack of interaction between the bar chart and th
 The last comment is about the default behaviour of d3.geomap. When a reader clicks a particular state, the map would be translated to centre the state. While I set the zoom level to 1 (i.e. no zooming), the map still moves when the state is being clicked. Finally I checked a bit of the d3.geomap source code and override the map clicked function in order to disable zooming completely. 
 
 #### Comment #4
-My friend also pointed out that when the year was selected, the bar changes should be animated in order to have a more impressive visualization.
+My friend also pointed out that when the year was selected, the bar changes should be animated in order to have a more impressive visualization. Therefore I modified the d3 selection of the bar items such that the width of the data items will be transited to their latest width in 0.5 second.
 
 ### Final Visualization
 I updated the visualization based on the comments and the final result is shown below.
