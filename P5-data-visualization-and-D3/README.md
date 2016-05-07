@@ -5,6 +5,8 @@ By Tommy Siu - 7 May 2016
 The dataset contains 113,937 loan data records from Prosper.
 In this project I mainly focus on the relationship between original loan amount, the state of address of the borrowers, and the year which the loans were originated. I would like to know the loan amount of each state over the years.
 
+The final visualization shows that state California continued to be the top loan amount state from year 2006 to 2014. It can also be seen that the overall loan amount was decreased sharply in 2009, which was due to global financial crisis at that time.
+
 ### Design
 The data file prosperLoanData.csv contains 113,937 records with 81 variables. I noticed that there is a variable named BorrowerState which records the originated state of the loan. I wondered if there is any relationship between the overall loan amount and the location within United States. Thus I decided to show the loan amount per each location.
 
