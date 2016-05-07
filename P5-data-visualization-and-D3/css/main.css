@@ -1,0 +1,46 @@
+h2 {
+  color: black;
+  text-align: center;
+}
+h3 {
+  float: left;
+  color: gray;
+  width: 30%;
+  margin-left: 120px;
+}
+div.graph {
+  float: left;
+  width: 100%;
+}
+#map {
+  float: left;
+  width: 50%;
+}
+#bar {
+  float: left;
+  width: 50%;
+}
+.years_buttons {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.year {
+  float: left;
+  width: 10%;
+  background-color: #fbc97f;
+  text-align: center;
+  padding: 1px;
+  margin: 2px;
+}
+#xaxis,#yaxis {
+  stroke: black;
+  fill: none;
+  stroke-width: 1px
+}
+.bars rect {
+  fill: #3399ff;
+}
+.bars rect.active {
+  fill: green;
+}
