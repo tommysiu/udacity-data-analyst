@@ -1,0 +1,5 @@
+A/B Testing - https://en.wikipedia.org/wiki/A/B_testing
+Sign and Binomial Test - http://graphpad.com/quickcalcs/binomial1.cfm
+Sample Size Calculator - http://www.evanmiller.org/ab-testing/sample-size.html 
+The Ultimate guide to A/B Testing - https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/
+

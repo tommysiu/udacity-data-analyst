@@ -22,4 +22,6 @@ A machine learning project using Python to build a model from existing Enron Fra
 
 A HTML+D3.js project to explore a dataset containing 113,937 loan records from Prosper. The visualization focuses on the relationship between the original loan amount, state of address of the borrowers and the year of original loan.
 
+## Project 6 - A/B Testing
 
+A project that demonstrates different considerations when doing a A/B testing, including invariant and evaluation metrics selection, sizing and power, sanity checks, effect size tests and sign tests.
