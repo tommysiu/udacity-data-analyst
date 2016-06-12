@@ -1,6 +1,8 @@
-# udacity-data-analyst
+# Udacity Data Analyst Nanodegree Program
 
-A repository to host my Udacity Data Analyst Nanodegree projects.
+This repository hosts all my Udacity Data Analyst Nanodegree projects.
+
+![Certificate](https://raw.githubusercontent.com/tommysiu/udacity-data-analyst/master/udacity_certificate.png)
 
 ## Project 1 - Analyzing the NYC Subway Dataset
 
